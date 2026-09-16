@@ -2,7 +2,13 @@
 
 ## Шаблон для автоматизации тестирования на python
 
-# Стек:
+### Шаги
+1. Склонировать проект git clone `https://github.com/fedorovai1964/pytest_ui_ip_template.git`
+2. Установить все зависимости
+3. Запустить тесты `pytest`
+
+
+### Стек:
 - pytest
 - selenium
 - requests
@@ -20,3 +26,5 @@
 - [Подсказка по markdown](https://www.markdownguide.org/basic-syntax/) 
 - [Генератор файла .gitignore](https://www.toptal.com/developers/gitignore)
 
+### Библиотеки
+- pip install pytest
