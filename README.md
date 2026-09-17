@@ -15,6 +15,7 @@
 - _sqlalchemy_
 - allure
 - config
+- webdriver-manager
 
 ### Структора:
 - ./test - тесты
@@ -28,3 +29,6 @@
 
 ### Библиотеки
 - pip install pytest
+- pip install selenium
+- pip install webdriver-manager
+- _pip install -r requirements.txt_
